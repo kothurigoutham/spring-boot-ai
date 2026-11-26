@@ -1,5 +1,5 @@
-[![mcp-server](https://github.com/rogervinas/spring-boot-ai/actions/workflows/ci-mcp-server.yml/badge.svg)](https://github.com/rogervinas/spring-boot-ai/actions/workflows/ci-mcp-server.yml)
-[![chat-server](https://github.com/rogervinas/spring-boot-ai/actions/workflows/ci-chat-server.yml/badge.svg)](https://github.com/rogervinas/spring-boot-ai/actions/workflows/ci-chat-server.yml)
+[![mcp-server](https://github.com/kothurigoutham/spring-boot-ai/actions/workflows/ci-mcp-server.yml/badge.svg)](https://github.com/kothurigoutham/spring-boot-ai/actions/workflows/ci-mcp-server.yml)
+[![chat-server](https://github.com/kothurigoutham/spring-boot-ai/actions/workflows/ci-chat-server.yml/badge.svg)](https://github.com/kothurigoutham/spring-boot-ai/actions/workflows/ci-chat-server.yml)
 ![Java](https://img.shields.io/badge/Java-21-blue?labelColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.x-blue?labelColor=black)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-4.x-blue?labelColor=black)
@@ -17,7 +17,7 @@ In this example, inspired by [Building Agents with AWS: Complete Tutorial](https
 * Retrieval Augmented Generation ([RAG](https://docs.spring.io/spring-ai/reference/api/retrieval-augmented-generation.html))
 * Testing with [AI Model Evaluation](https://docs.spring.io/spring-ai/reference/api/testing.html) 🤩
 
-This project is indexed and certified by [MCP Review](https://mcpreview.com/mcp-servers/rogervinas/spring-boot-ai)
+This project is indexed and certified by [MCP Review](https://mcpreview.com/mcp-servers/kothurigoutham/spring-boot-ai)
 
 The original example uses [AWS Bedrock](https://aws.amazon.com/bedrock/), but one of the great things about **Spring AI** is that with just a few config tweaks, the same code works with any other supported model. This project supports three profiles: [Ollama](https://ollama.com/) (local), [Google Gemini](https://ai.google.dev/) and [AWS Bedrock](https://aws.amazon.com/bedrock/).
 
